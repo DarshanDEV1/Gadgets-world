@@ -1,0 +1,16 @@
+body{
+background: linear-gradient(to right,#03effe,#026be2);
+}
+#A{
+color:blue;
+text-align:center;
+text-shadow:black 3px 3px 3px;
+}
+#B{
+text-align:center;
+
+}
+#C{
+text-align:center;
+text-shadow:grey 4px 4px 4px;
+}
